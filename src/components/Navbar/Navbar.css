@@ -1,0 +1,33 @@
+.bg-my{
+    background-color: #ff79ae!important;
+    margin-bottom: 15px;
+}
+
+a{
+    color: white !important;
+}
+button{
+    background-color: #ff79ae !important;
+}
+button:hover{
+    background-color: #a94870 !important;
+
+}
+
+.myLogo{
+    width: 100px;
+    filter: invert(1);
+}
+.buttonnews{
+    background-color: #ff79ae !important;
+}
+.buttonnews:hover{
+    background-color: #a94870 !important;
+}
+@media screen and (max-width:330px) {
+  .my-logop{
+    flex-wrap: wrap !important;
+  }
+  
+  
+}

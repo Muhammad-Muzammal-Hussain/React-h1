@@ -1,0 +1,21 @@
+.accordion-button::after{
+    /* background-color: white; */
+    filter: invert(1);
+}
+.container{
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    /* border-radius: 2rem; */
+}
+.btn{
+    margin-top: 1rem;
+}
+.accordion-item{
+    /* border-radius: 2rem; */
+    
+    padding: 0.5rem;
+}
+
+
+    
